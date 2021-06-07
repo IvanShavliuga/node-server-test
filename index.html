@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<title></title>
+<script>
+window.onload = async function() {
+const dta = await fetch('http://localhost:3000/iv2').then(d => {
+console.log(d)
+return d
+})
+console.log(dta)
+}
+</script>
+</head>
+<body>
+</body>
+</html>
