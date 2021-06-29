@@ -1,0 +1,28 @@
+</I>: 4-й период, группа - VIIIВ (9). nt=������ �.�. name=author>
+</head>
+<body link="#000000" vlink="#000000" alink="#000000">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="80%" bgcolor="#Ff0000">
+<font size="5" Color="#ffffff"><b>������������� ������� ���������� ��������� </b></font>
+</td>
+ 
+</tr>
+</table>
+<FORM>
+<SELECT NAME="menu">
+<OPTION VALUE="index.html" SELECTED>������� ��������
+<OPTION VALUE="#0">����� ��������
+<OPTION VALUE="#1">�������� �����
+<OPTION VALUE="#2">������� ��������
+<OPTION VALUE="#3">���������� � �������
+<OPTION VALUE="#4">���������
+<option VALUE="#5">���������� � ���������� ��������
+<option VALUE="#6">����������
+
+<input type=button value="�������"onclick="top.location.href=this.form.menu.options[this.form.menu.selectedIndex].value">
+</FORM>
+<H1 align=center>�������� (���. Palladium)</H1>
+<a name=0 ></a><H2>����� ��������</H2>
+<div align=justify>
+���������� ������� ������� ����������, ������. 

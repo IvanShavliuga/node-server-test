@@ -1,0 +1,2301 @@
+/* @start */{"runame":АКТИНИЙ ("lat": Actinium
+
+
+, "metall",.",
+"shortname": Ac. ",
+"index": 89.",
+"position": 7, IIIB (3)",
+"mass": 227.027",
+"oxidation": +3",
+"valence": III",
+"electronegativity": 1.00",
+"config:": [<a href="Rn.html" target="">Rn</a>]6d<sup>1</sup>7s<sup>2</sup>",
+},/* @end */
+
+/* @start */{"runame":СЕРЕБРО ("lat": Аrgentum
+
+
+, "metall",.",
+"shortname": Ag. ",
+"index": 47.",
+"position": 5, IB(11).",
+"mass": 107,8682.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+1</b>+2 и +3.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>I</b>,II,III.",
+"electronegativity":  1,93.",
+"config:": [<a href="Kr.html">Kr</a>]4s<sup>2</sup>p<sup>6</sup>d<sup>10</sup>5s<sup>1</sup>.",
+Природное серебро состоит из двух стабильных
+изотопов <sup>107</sup>Ag (51,35% по массе) и <sup>109</sup>Ag(48,65%).},/* @end */
+
+/* @start */{"runame":АЛЮМИНИЙ ("lat": Aluminium
+
+
+, "metall",.",
+"shortname": Al. ",
+"index": 13.",
+"position": 3, IIIA (13)",
+"mass": 26.981538",
+"oxidation": +3",
+"valence": III",
+"electronegativity": 1.47",
+"config:": [<a href="Ne.html" >Ne</a>]3s<sup>2</sup>3p<sup>1</sup>",
+Природный алюминий состоит из одного нуклида <sup>27</sup>Al.
+Простое вещество алюминий — мягкий легкий серебристо-белый "metall",.
+},/* @end */
+
+/* @start */{"runame":АМЕРИЦИЙ ("lat": Americium
+
+
+, "metall",.",
+"shortname": Am. ",
+"index": 95.",
+"position": 7, IIIB(3).",
+"mass": 243.061.",
+"oxidation": +2 до +7.",
+"valence": II-VII.",
+"electronegativity": 1,2.",
+"config:": [<a href="Rn.html">Rn</a>]5s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>7</sup>
+6 s<sup>2</sup>
+  p<sup>
+6</sup>  7 s <sup>
+2</sup>.",
+Наиболее долгоживущие нуклиды: <sup>
+243</sup> Am
+(период полураспадаT<sub> 1/2</sub>
+= 7370 лет), <sup>242</sup>
+ <sup>m</sup>
+Am( T<sub> 1/2</sub>
+= 141 год) и <sup>241</sup>
+Am (432,1 года).},/* @end */
+
+/* @start */{"runame":АРГОН ("lat": Аrgon
+
+
+, не"metall",, инертный (благородный) газ.",
+"shortname": Ar. ",
+"index": 18.",
+"position": 3, VIIIA (18)",
+"mass": 38.948",
+"electronegativity": 3.20",
+"config:": [<a href="Ne.html" target="">Ne</a>]3s<sup>2</sup>3p<sup>6</sup>",
+Природный аргон состоит из трех стабильных нуклидов : <sup>36</sup>Ar (0,337%), <sup>38</sup>Ar(0,063%) и <sup>40</sup>Ar(99,600%). Простое вещество аргон — газ без запаха, цвета и вкуса.
+
+},/* @end */
+
+/* @start */{"runame":МЫШЬЯК ("lat":  Arsenicum) 
+
+
+, не"metall",.",
+"shortname": As. ",
+"index": 33.",
+"position": 4, VА (15).",
+"mass": 74,9216.",
+"oxidation": +3, +5, –3 .",
+"valence": III, V.",
+"electronegativity": 2,1.",
+"config:": [<a href="Ar.html">Ar</a>]4s<sup>2</sup>p<sup>3</sup>.",
+В природе встречается один
+стабильный изотоп <sup>75</sup>
+As.
+},/* @end */
+
+/* @start */{"runame":АСТАТ ("lat": Astatium
+
+
+, "metall",.",
+"shortname": Аt. ",
+"index": 85.",
+"position": 6, VIIА(17).",
+"mass": 209.987.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>-1</b>, +1, +5.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>I</b> и V.",
+"electronegativity": 2,10.",
+"config:": [<a href="Xe.html">Xe</a>]4f<sup>14</sup>
+5d<sup>10</sup>
+6 s<sup>2</sup>
+ p<sup>5</sup>.",
+Стабильных изотопов не
+имеет. Известно более 20 изотопов с массовыми числами 196-219. Наиболее
+долгоживущие астат-210 (период полураспада Т<sub>
+1/2</sub>=
+8,1 ч) и астат-211 ( Т<sub> 1/2</sub>
+ = 7,21 ч).},/* @end */
+
+/* @start */{"runame":ЗОЛОТО ("lat": Aurum 
+
+
+, "metall",.",
+"shortname": Au. ",
+"index": 79.",
+"position": 6, IВ(11).",
+"mass": 196,9665.",
+"oxidation":  +1, +3, +5.",
+"valence": I, III,
+V.",
+"electronegativity": 2,4.",
+"config:": [<a href="Xe.html">Xe</a>]5 s <sup>
+2</sup>p <sup>
+6</sup>d <sup>
+10</sup> 6 s<sup>
+1</sup>.",
+В природе один стабильный изотоп <sup>
+197</sup> Au.},/* @end */
+
+/* @start */{"runame":БОР ("lat": Borum),
+
+
+, не"metall",.",
+"shortname": B. ",
+"index": 5.",
+"position": 2, IIIA (13)",
+"mass": 10.811",
+"oxidation" (жирным шрифтом выделена наиболее характерная): -3, <b>+3</b>",
+"valence": III",
+"electronegativity": 2.01",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>1</sup>",
+Природный бор состоит из двух стабильных нуклидов <sup>10</sup>В (19,57%) и <sup>11</sup>В.
+},/* @end */
+
+/* @start */{"runame":БАРИЙ ("lat": Baryum
+"shortname": Ва. ",
+"index": 56.",
+"position": 6, IIA(1).",
+"mass": 137,327.",
+"oxidation": +2.",
+"valence": II.",
+"electronegativity": 0,9.",
+"config:": [<a href="Xe.html">Xe</a>]6s<sup>2</sup>.",
+Природный барий состоит из семи стабильных
+изотопов с массовыми числами 130 (0,101%), 132 (0,097%), 134 (2,42%), 135
+(6,59%), 136 (7,81%), 137 (11,32%) и 138 (71,66%).},/* @end */
+
+/* @start */{"runame":БЕРИЛЛИЙ ("lat": Вeryllium
+
+
+, "metall",.",
+"shortname": Be. ",
+"index": 4.",
+"position": 2, IIA (2)",
+"mass": 9.012182",
+"oxidation": +2",
+"valence": II",
+"electronegativity": 1.47",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>",
+В природе встречается только один стабильный нуклид <sup>9</sup>Be. В свободном виде — серебристо-серый легкий "metall",.
+},/* @end */
+
+/* @start */{"runame":БОРИЙ ("lat": Bohrium
+
+
+, "metall",.",
+"shortname": Bh. ",
+"index": 107.",
+"position": 7, VIIB (7)",
+"mass": около 264",
+"oxidation":  +2,+3,+4,+5,+6,+7.",
+"valence": II,III, IV, V, VI, VII.",
+"config:": [<a href="Rn.html" target="">Rn</a>]5f<sup>14</sup>6d<sup>5</sup>7s<sup>2</sup>",
+Назван в честь Н. Бора, датского физика.
+},/* @end */
+
+/* @start */{"runame":ВИСМУТ ("lat": Bismuthum
+
+
+, "metall",.",
+"shortname": Bi. ",
+"index": 83.",
+"position": 6, VA(15).",
+"mass": 208,9804.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): -3,<b>+3</b>,+5.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>III</b>,V.",
+"electronegativity": 1,9.",
+"config:": [<a href="Xe.html">Xe</a>]6s<sup>2</sup>p<sup>3</sup>.",
+ Природный висмут состоит из
+одного нуклида <sup>209</sup>
+Bi.Серебристо-серый "metall", с розоватым оттенком.},/* @end */
+
+/* @start */{"runame":БЕРКЛИЙ ("lat": Berkelium
+
+
+, "metall",.",
+"shortname": Bk. ",
+"index": 97.",
+"position": 7, IIIB(3).",
+"mass": 247.07.",
+"oxidation": +3 и +4.",
+"valence": III и IV.",
+"electronegativity": 1.20.",
+"config:": [<a href="Rn.html">Rn</a>]5s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+10</sup> f<sup>
+8</sup> 6s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+1</sup> 7 s<sup>
+2</sup>.",
+Природный состоит из стабильных нуклидов : .
+},/* @end */
+
+/* @start */{"runame":БРОМ ("lat": Brоmum
+
+
+, не"metall",.",
+"shortname": Br. ",
+"index": 35.",
+"position": 4, VIIА ().",
+"mass": 79,904.",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>–1 и +5</b>,+1,+3,+7.",
+"valence" (жирным шрифтом выделены наиболее характерные): <b>I, V</b>, III и VII.",
+"electronegativity": 2,8.",
+"config:": [<a href="Ar.html">Ar</a>]4s<sup>2</sup>p<sup>5</sup>.",
+Природный бром представляет
+смесь двух нуклидов с массовыми числами 79 (в смеси 50,56% по массе) и 81.
+},/* @end */
+
+/* @start */{"runame":УГЛЕРОД ("lat": Carboneum
+
+
+, не"metall",.",
+"shortname": C. ",
+"index": 6.",
+"position": 2, IVA (14)",
+"mass": 12.0107",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>-4</b>,+2,<b>+4</b>",
+"valence" (жирным шрифтом выделена наиболее характерная): II,<b>IV</b>",
+"electronegativity": 2.50",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>2</sup>",
+},/* @end */
+
+<html>
+
+<head>
+<META content=Иванов И.С. name=author>
+
+<title>КАЛЬЦИЙ</title>
+
+</head>
+<body link="#000000" vlink="#000000" alink="#000000">
+ <table border="0" width="100%" cellspacing="0" cellpadding="0">
+ <tr>
+	<td width="100%" bgcolor="#ff0000">
+	<font size="5" color="#ffffff"><b>Периодическая таблица химических элементов </b></font>
+ </td>
+ </tr></table>
+	<FORM>
+    <SELECT NAME="menu">
+    <OPTION VALUE="index.html" SELECTED>Главная страница
+    <OPTION VALUE="#0">Общие сведения
+    <OPTION VALUE="#1">Строение атома
+    <OPTION VALUE="#2">История открытия
+    <OPTION VALUE="#3">Нахождение в природе
+    <OPTION VALUE="#4">Получение
+    <option VALUE="#5">Физические и химические свойства
+    <option VALUE="#6">Применение
+    <option VALUE="#7">Кальций в организме
+    <input type=button value="Перейти"
+ "top.location.href =
+ this.form.menu.options[this.form.menu.selectedIndex].value">
+</FORM>
+<h1 align="center">
+КАЛЬЦИЙ ("lat": Calcium
+
+
+, "metall",.",
+"shortname": Mg. ",
+"index": 20.",
+"position": 4, IIA (2)",
+"mass": 40.078",
+"oxidation": +2",
+"valence": II",
+"electronegativity": 1.23",
+"config:": [<a href="Ne.html">Ne</a>]4s<sup>2</sup>",
+Природный кальций состоит
+из смеси нуклидов с массовыми числами 40 (в смеси по массе 96,94 %), 44
+(2,09%), 42 (0,667%), 48 (0,187%), 43 (0,135%) и 46 (0,003%).
+В свободном виде кальций — серебристо-белый "metall",.},/* @end */
+
+/* @start */{"runame":КАДМИЙ ("lat": Cadmium
+
+
+, "metall",.",
+"shortname": Cd. ",
+"index": 48.",
+"position": 5, IIВ(12).",
+"mass": 112,41.",
+"oxidation": +2.",
+"valence": II.",
+"electronegativity": 1,69.",
+"config:": [<a href="Kr.html">Kr</a>]4s<sup>2</sup>p<sup>6</sup>d<sup>10</sup>5s<sup>2</sup>.",
+Природный кадмий состоит из
+восьми стабильных изотопов: <sup>106</sup>
+Cd (1,22% ), <sup>108</sup>
+Cd (0,88%), <sup>110</sup>
+Cd (12,39%), <sup>111</sup>
+Cd (12,75%), <sup>112</sup>
+Cd (24,07%), <sup>113</sup>
+Cd (12,26%), <sup>114</sup>
+Cd (28,85%) и <sup>116</sup>
+Cd (12,75%).},/* @end */
+
+/* @start */{"runame": ЦЕРИЙ ("lat": Cerium
+
+
+, "metall",.",
+"shortname": Cе. ",
+"index": 58.",
+"position": 66, IIIB(3).",
+"mass": 140,12.",
+"oxidation": +3, +4.",
+"valence": III, IV.",
+"electronegativity": 1,12.",
+
+"config:": [<a href="Xe.html">Xe</a>]4 s <sup>2</sup>
+ p <sup>6</sup>
+ d<sup>10</sup>
+ f <sup>1</sup>
+5s  <sup>
+2</sup>p <sup>
+6</sup>d<sup>
+1</sup> 6s
+ <sup>2</sup>.",
+Природный церий состоит их четырех стабильных изотопов: <sup>
+136</sup> Ce
+(0,19% по массе), <sup>138</sup>
+Ce (0,25%), <sup>140</sup>
+Ce (88,48%) и <sup>142</sup>
+Ce (11,08%).
+},/* @end */
+
+/* @start */{"runame": КАЛИФОРНИЙ ("lat": Californium
+
+
+, "metall",.",
+"shortname": Cf. ",
+"index": 98.",
+"position": 7, IIIB(3).",
+"mass": 251.079.",
+"oxidation": +2, +3 и
++4.",
+"valence": II, III и IV.",
+"electronegativity": 1.11.",
+"config:": [<a href="Rn.html">Rn</a>] 5 s <sup>2</sup>
+ p <sup>6</sup>
+ d <sup>10</sup>
+ f <sup>10</sup>
+6 s <sup>2</sup>
+ p <sup>6</sup>
+7 s<sup>2</sup>.",
+},/* @end */
+
+H1 Align="center">ХЛОР ("lat":Сhlorum
+
+, не"metall",, галоген.",
+"shortname": Cl. ",
+"index": 17.",
+"position": 3, VIIA (17)",
+"mass": 35.4527",
+"oxidation" (выделена наиболее
+характерная): <b>–1</b>, +1, +3, +5 и +7.",
+"valence" (выделена наиболее
+характерная): <b>I</b>, III, V и VII.",
+"electronegativity":3,16.",
+"config:": [Ne]3s<sup>2</sup>p<sup>5</sup>",
+Природный хлор представляет смесь двух нуклидов с массовыми числами 35 (в смеси 75,77% по
+массе) и 37 (24,23%).},/* @end */
+
+/* @start */{"runame":КЮРИЙ ("lat": Curium
+
+
+, "metall",.",
+"shortname": Cm. ",
+"index": 96.",
+"position": 7, IIIB(3).",
+"mass": .",
+"oxidation": +3 и +4.",
+"valence": III и IV.",
+"electronegativity": 1,2.",
+"config:": [<a href="Rn.html">Rn</a>]5f <sup>
+7</sup> 6s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+1</sup> 7 s<sup>
+ 2</sup>.",
+Наиболее
+долгоживущие нуклиды кюрия
+<font face="Symbol">a</font> -радиоактивные <sup>
+247</sup> Cm
+(период полураспадаT<sub> 1/2</sub>
+ 1,58.10<sup>7</sup>
+лет) и <sup>248</sup>
+Cm ( T<sub> 1/2</sub>
+ 3,4.10<sup>5</sup>
+лет).},/* @end */
+
+/* @start */{"runame":Uub
+
+
+, "metall",.",
+"shortname": Uub. ",
+"index": 112.",
+"position": 7, IIB (12)",
+"mass" примерно 277.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>",
+},/* @end */
+
+/* @start */{"runame":
+КОБАЛЬТ ("lat": Сobaltum
+
+, "metall",.",
+"shortname":Со. ",
+"index":  27. ",
+"position": 4, VIIIВ (9).",
+"mass": 58,9332.",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+2</b> +3  и очень редко +1, +4 и +5.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>II,</b> III,  I, IV, V.",
+"electronegativity": 1,88.",
+"config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d<sup>7</sup>4s<sup>2</sup>.", 
+Природный кобальт состоит из двух стабильных нуклидов:
+<sup>59</sup>Со (99,83% по массе) и <sup>57</sup>Co. Кобальт — блестящий,
+серебристо-белый, тяжелый "metall", с розоватым оттенком.",
+
+/* @start */{"runame":ХРОМ ("lat": chromium
+
+
+, "metall",.",
+"shortname": Cr. ",
+"index": 24
+.",
+"position": 4, VIB (6)",
+"mass": 51,9961
+",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+3</b>,+4",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>III</b> и VI
+",
+"electronegativity": 1,66.",
+"config:": [Ar]3s<sup>2</sup>р<sup>6</sup>d<sup>5</sup>4s<sup>1</sup>.
+",
+Природный хром состоит из смеси четырех стабильных нуклидов: <sup>50</sup>Cr (содержание в смеси 4,35%), <sup>52</sup>Cr (83,79%), <sup>53</sup>Cr (9,50%) и <sup>54</sup>Cr (2,36%). },/* @end */
+
+/* @start */{"runame":ЦЕЗИЙ ("lat": Cesium
+
+
+, "metall",.",
+"shortname": Cs. ",
+"index": 55.",
+"position": 6, IA (1).",
+"mass": 132,9054.",
+Степень: +1.",
+"valence": I.",
+"electronegativity": 0,7.",
+"config:": [Xe]6 s<sup>1</sup>.",
+Имеет один стабильный нуклид <sup>133</sup>Cs.
+},/* @end */
+
+/* @start */{"runame":МЕДЬ ("lat": Cuprum
+
+
+, "metall",.",
+"shortname": Cu. ",
+"index": 29.",
+"position": 4, IВ (11).",
+"mass": .",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+1,+2</b>,.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b></b>,+3 и +4.",
+"electronegativity": 1,9.",
+"config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d<suP>10</sup>4s<sup>1</sup>.",
+Природная медь  состоит из  стабильных нуклидов : <sup>63</sup>Cu (69,09% по массе) и <sup>65</sup>Cu (30,91%). В ряду стандартных потенциалов медь
+расположена правее водорода и ни из воды, ни из кислот водорода не вытесняет. Простое вещество
+медь — красивый розовато-красный пластичный "metall",.
+},/* @end */
+
+/* @start */{"runame":ДУБНИЙ ("lat": Dubnium
+
+
+, "metall",.",
+"shortname": Db. ",
+"index": 105.",
+"position": 7, VB (5)",
+"mass": около 262",
+"oxidation": +5",
+"valence": V",
+"config:": [Rn]5f<sup>14</sup>6d<sup>3</sup>7s<sup>2</sup>",
+По названию Дубны, в котором расположен Институт ядерных исследований, элемент получил свое название.
+},/* @end */
+
+/* @start */{"runame":Uun
+
+
+, "metall",.",
+"shortname": Uun. ",
+"index": 110.",
+"position": 7, VIIIB (10)",
+"mass" примерно 269.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>9</sup>7s<sup>1</sup>",
+},/* @end */
+
+/* @start */{"runame":ДИСПРОЗИЙ ("lat": Dysprosium
+
+
+, "metall",.",
+"shortname": Dy. ",
+"index": 66.",
+"position": 6, IIIB(3).",
+"mass": 162,50.",
+"oxidation": +2, +3 и +4.",
+"valence": II, III, IV.",
+"electronegativity": 1,1.",
+"config:": [Xe]4 s<sup>2</sup>
+ p<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>10</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 6s<sup>2</sup>.",
+Состоит из семи
+изотопов <sup>156</sup>
+Dy (0,052%), 158 Dy (0,090%), 160 Dy (2,29%), <sup>
+161</sup> Dy
+(18,88%), <sup>162</sup>
+Dy (25,53), <sup>163</sup>
+Dy (24,97%) и <sup>164</sup>
+Dy (28,18%). },/* @end */
+
+/* @start */{"runame": ЭРБИЙ ("lat": Erbium
+
+
+, "metall",.",
+"shortname": Er. ",
+"index": 68.",
+"position": 6, IIIB(3).",
+"mass": 167,26.",
+"oxidation": +3, +1.",
+"valence": III,I.",
+"electronegativity": 1,11.",
+"config:": [Xe]4 s<sup>2</sup>
+ p<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>12</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 6s<sup>2</sup>.",
+Является смесью шести стабильных нуклидов: <sup>
+162</sup> Er
+(содержание в природной смеси 0,14% по массе), <sup>
+164</sup> Er
+(1,61%), <sup>166</sup>
+Er (33,6%), <sup>167</sup>
+Er (22,95%), <sup>168</sup>
+Er (26,8%) и <sup>170</sup>
+Er (14,9%).
+},/* @end */
+
+/* @start */{"runame":ЭЙНШТЕЙНИЙ ("lat": Einsteium
+
+
+, "metall",.",
+"shortname": Es. ",
+"index": 99.",
+"position": 7, IIIB(3).",
+"mass": 252.082.",
+"oxidation": +3.",
+"valence": III.",
+"electronegativity": 1.20.",
+"config:": [Rn]5 s <sup>
+2</sup>p <sup>
+6</sup>d <sup>
+10</sup>f <sup>
+11</sup> 6 s <sup>
+2</sup>p <sup>
+6</sup> 7 s<sup>
+2</sup> .",
+},/* @end */
+
+/* @start */{"runame":ЕВРОПИЙ ("lat": Europium
+
+
+, "metall",.",
+"shortname": Eu. ",
+"index": 63.",
+"position": 6, IIIB(3).",
+"mass": 151,96.",
+"oxidation": +3, реже +2.",
+"valence": II,III.",
+"electronegativity": 1.",
+"config:": [Xe]4 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>7</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 6s<sup>2</sup>.",
+Состоит из двух стабильных изотопов <sup>
+151</sup> Eu (47,82%) и <sup>
+153</sup> Eu
+(52,18%). },/* @end */
+
+/* @start */{"runame":ФТОР ("lat": Fluorum
+
+
+, не"metall",, галоген.
+",
+"shortname": F. ",
+"index": 9.",
+"position": 2, VIIA (1)",
+"mass": 18.9984032",
+"oxidation" : -1.",
+"valence": I.",
+"electronegativity": 4.10",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>5</sup>",
+Природный фтор состоит из одного стабильного нуклида <sup>19</sup>F. Фтор — самый активный не"metall",.
+В свободном виде фтор — бесцветный газ с резким удушливым запахом.
+},/* @end */
+
+/* @start */{"runame":ЖЕЛЕЗО ("lat": Ferrum
+
+
+, "metall",.",
+"shortname": Fe. ",
+"index": 26.",
+"position": 4, VIIIВ (8)",
+"mass": 55,847",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+2,+3</b>,+4,+6",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>II,III</b>,IV,VI",
+"electronegativity": 1,8.",
+"config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d<sup>6</sup>4s<sup>2</sup>.",
+Природное железо представляет собой смесь четырех нуклидов с массовыми числами
+54 (содержание в природной смеси 5,82% по массе), 56 (91,66%), 57 (2,19%) и 58
+(0,33%).
+},/* @end */
+
+/* @start */{"runame":Uuq
+
+
+, "metall",.",
+"shortname": Uuq. ",
+"index": 114.",
+"position": 7, IVA (14)",
+"mass" примерно 285.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>2</sup>",
+},/* @end */
+
+/* @start */{"runame":ФЕРМИЙ ("lat": Fermium
+
+
+, "metall",.",
+"shortname": Fm. ",
+"index": 100.",
+"position": 7-7, IIIB(3).",
+"mass": 257.095.",
+"oxidation": +2,+3.",
+"valence": II,III.",
+"electronegativity": 1.2.",
+"config:": [Rn]5 s <sup>
+2</sup>p <sup>
+6</sup>d <sup>
+10</sup>f <sup>
+12</sup> 6 s <sup>
+2</sup>p <sup>
+ 6</sup>7s<sup>
+2</sup> ..",
+Наиболее устойчив <font face="Symbol">a</font>
+-радиоактивный <sup>
+257</sup> Fm (период полураспадаТ
+<sub> 1/2</sub><sub>
+ </sub> = 80
+суток).},/* @end */
+
+/* @start */{"runame":ФРАНЦИЙ ("lat": Francium
+
+
+, "metall",.",
+"shortname": Fr. ",
+"index": 87.",
+"position": 7, IА(1).",
+"mass": 223.019.",
+"oxidation": +1.",
+"valence": I.",
+"electronegativity": 0,86.",
+"config:": [Rn]7s<sup>1</sup>.",
+Все радиоизотопы франция
+быстро распадаются, наиболее долгоживущий встречающийся в природе 
+<font face="Symbol">a</font> 
+-радиоактивный <sup>223</sup>
+Fr (Т1/2 = 21,8 мин) входит в радиоактивный ряд <sup>
+235</sup> U.},/* @end */
+
+/* @start */{"runame":ГАЛЛИЙ ("lat": Gallium
+
+
+, "metall",.",
+"shortname": Ga.",
+"index": 31.",
+"position": 4, IIIA (13).",
+"mass": .",
+"oxidation" (жирным шрифтом выделена наиболее характерная): +3, +1.",
+"valence" (жирным шрифтом выделена наиболее характерная): I, III.",
+"electronegativity": 1,6.",
+"config:": [<a href="Ar.html">Ar</a>]4s<sup>2</sup>p<sup>1</sup>.",
+Природный галлий состоит из двух стабильных нуклидов: <sup>69</sup>Ga (61,2% по массе) и <sup>71</sup>Ga (38,8%).
+},/* @end */
+
+/* @start */{"runame":ГАДОЛИНИЙ ("lat": gadolinium
+
+
+, "metall",.",
+"shortname": Gd. ",
+"index": 64.",
+"position": 6, IIIB(3).",
+"mass": 157,25.",
+"oxidation":+3, +1 и +2 .", 
+"valence": I,II,III.",
+"electronegativity": 1,1.",
+"config:": [Xe] s <sup>2</sup>
+ p <sup>6</sup>
+ d <sup>10</sup>
+ f <sup>7</sup>
+ 5s <sup>2</sup>
+ p <sup>6</sup>
+ d <sup>1</sup>
+6s<sup>2</sup>.",
+Состоит из семи изотопов <sup>
+152</sup> Gd
+(0,200%), <sup>154</sup>
+Gd (2,15%), <sup>155</sup>
+Gd (14,73%), <sup>156</sup>
+Gd (20,47%), <sup>157</sup>
+Gd (15,68%), <sup>158</sup>
+Gd (24,87%) и <sup>160</sup>
+Gd (21,90%). },/* @end */
+
+/* @start */{"runame":ГЕРМАНИЙ ("lat": Germanium
+
+
+, "metall",.",
+"shortname": Gе. ",
+"index": 32.",
+"position": 4, IVA (14).",
+"mass": 72,61.",
+"oxidation": +4, +2.",
+"valence": IV, II.",
+"config:": [Ar]4s<sup>2</sup>p<sup>2</sup>.",
+Природный германий состоит из пяти изотопов с массовыми числами 70 (содержание
+в природной смеси 20,51% по массе), 72 (27,43%), 73 (7,76%), 74 (36,54%), и 76
+(7,76%).},/* @end */
+
+/* @start */{"runame":ВОДОРОД ("lat": Hydrogenium
+
+
+, не"metall",.",
+"shortname": H. ",
+"index": 1.",
+"position": 1, IA (1)",
+"mass": 1.00794",
+"oxidation" (жирным шрифтом выделена наиболее характерная): -1, <b>+1</b>",
+"valence": I",
+"electronegativity": 2.10",
+"config:": 1s<sup>1</sup>",
+Природный водород состоит из смеси двух стабильных нуклидов с массовыми числами 1,007825 (99,985 % в смеси) и 2,0140 (0,015 %). Кроме того, в природном водороде всегда присутствуют ничтожные количества радиоактивного нуклида — трития <sup>3</Sup>Н (период полураспада Т<sub>1/2</sub> 12,43 года). В свободном виде — легкий горючий газ без цвета, запаха и вкуса.
+},/* @end */
+
+/* @start */{"runame":ГЕЛИЙ ("lat": Helium
+
+
+, не"metall",, инертный (благородный) газ.",
+"shortname": He. ",
+"index": 2.",
+"position": 1, VIIIA (18)",
+"mass": 4.002602",
+"electronegativity": 5.50",
+"config:": 1s<sup>2</sup>",
+Природный гелий состоит из двух стабильных нуклидов: <sup>3</sup>Не (0,00013% по объему) и <sup>4</sup>Не. Почти полное преобладание гелия-4 связано с образованием ядер этого нуклида при -радиоактивном распаде урана, тория, радия и других атомов, происходившем в течение длительной истории Земли.
+},/* @end */
+
+/* @start */{"runame":ГАФНИЙ ("lat": Hafnium
+
+
+, "metall",.",
+"shortname": Hf. ",
+"index": 72.",
+"position": 6, IVB(4).",
+"mass": 178,49.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+4</b>,+3 и +2.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>IV</b>,III,II.",
+"electronegativity": 1,6.",
+"config:": [Xe]5 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>2</sup>
+6 s<sup>2</sup>.",
+Природный гафний состоит из шести изотопов с массовыми числами 174
+(0,18%), 176 (5,20%), 177 (18,50%), 178 (27,14%), 179 (13,75%) и 180 (35,23%).
+},/* @end */
+
+/* @start */{"runame":РТУТЬ ("lat": Hydrargyrum
+
+
+, "metall",.",
+"shortname": Hg. ",
+"index": 80.",
+"position": 6, IIВ(12).",
+"mass": 200,59.",
+"oxidation": +1 и +2.",
+"valence": I и II.",
+"electronegativity": 1,9.",
+"config:": [Xe]5s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+6 s<sup>2</sup>.",
+Природная ртуть состоит из
+смеси семи стабильных нуклидов: <sup>196</sup>
+Hg (содержание 0,146% по массе), <sup>
+198</sup> Hg
+(10,02%), <sup>199</sup>
+Hg (16,84%), <sup>200</sup>
+Hg (23,13%), <sup>201</sup>
+Hg (13,22%), <sup>202</sup>
+Hg (29,80%) и <sup>204</sup>
+Hg (6,85%).},/* @end */
+
+/* @start */{"runame":ГОЛЬМИЙ ("lat": Holmium
+
+
+, "metall",.",
+"shortname": Но. ",
+"index": 67.",
+"position": 6, IIIB(3).",
+"mass": 164,9304.",
+"oxidation": +3,+2.",
+"valence": III,II.",
+"electronegativity": 1,1.",
+"config:": [Xe]4 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>11</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 6s<sup>2</sup>.",
+В природе один стабильный изотоп<sup>
+165</sup> Ho.},/* @end */
+
+/* @start */{"runame":ХАССИЙ ("lat": Hassium
+
+
+, "metall",.",
+"shortname": Hs. ",
+"index": 108.",
+"position": 7, VIIIB (8)",
+"mass": около 265",
+"oxidation":  +2,+3,+4,+5,+6,+7,+8.",
+"valence": II,III, IV, V, VI, VII, VIII.",
+"config:": [Rn]5f<sup>14</sup>6d<sup>6</sup>7s<sup>2</sup>",
+Назван в честь немецкой провинции.
+},/* @end */
+
+/* @start */{"runame":ИОД ("lat": Iodum
+, не"metall",.",
+"shortname": I. ",
+"index": 53.",
+"position": 5, VIIА(17).",
+"mass":126,9045.",
+"oxidation": –1, +1,+3, +5 и +7 .",
+"valence": I, III, V и VII.",
+"electronegativity": 2,66 .",
+"config:": [Kr]5 s
+<sup>2</sup>
+ p<sup>5</sup>.",
+ Природный иод состоит только
+из одного нуклида — иода-127.},/* @end */
+
+/* @start */{"runame":ИНДИЙ ("lat": Indium
+
+
+, "metall",.",
+"shortname": In. ",
+"index": 49.",
+"position": 5, IIIA(13).",
+"mass": 114,82.",
+"oxidation": +3, +1.",
+"valence": III, I.",
+"electronegativity": 1,78.",
+"config:": [Kr]5s<sup>2</sup>5p<sup>1</sup>.",
+Природный индий состоит из двух изотопов с массовыми числами 115
+(95,7%) и 113 (4,3%)},/* @end */
+
+/* @start */{"runame": ИРИДИЙ ("lat": Iridium
+
+
+, "metall",.",
+"shortname": Ir. ",
+"index": 77.",
+"position": 6, VIIIB(9).",
+"mass": 192,22.",
+"oxidation": от +1 до +6.",
+"valence": I-VI.",
+"electronegativity": 2,2.",
+"config:": [Xe]5 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>7</sup>
+6 s<sup>2</sup>.",
+ Иридий — тяжелый
+серебристо-белый "metall",. Состоит из смеси двух стабильных
+изотопов <sup>193</sup>
+Ir (62,7% по массе) и <sup>
+191</sup> Ir
+(37,3%).},/* @end */
+
+/* @start */{"runame":КАЛИЙ ("lat": Kalium
+
+
+, щелочной "metall",.",
+"shortname": K. ",
+"index": 19.",
+"position": 4, IA (1)",
+"mass": 39.0983",
+"oxidation": +1",
+"valence": I",
+"electronegativity": 0.91",
+"config:": [Ar]4s<sup>1</sup>",
+Калий встречается в природе в виде двух стабильных нуклидов:<sup>39</sup>К (93,10% по массе) и
+<sup>40</sup>К (6,88%), а также одного радиоактивного <sup>40</sup>К (0,02%). Период полураспада калия-40 Т<sub>1/2</sub> примерно в 3 раза меньше, чем Т<sub>1/2</sub> урана-238 и составляет 1,28 миллиарда лет. При  <font face="Symbol">b</font>-распаде калия-40 образуется стабильный кальций-40, а при распаде по типу электронного захвата  образуется
+инертный газ аргон-40.В свободном виде — мягкий,
+легкий, серебристый "metall",.},/* @end */
+
+/* @start */{"runame":КРИПТОН ("lat": Krypton
+
+
+, не"metall",.",
+"shortname": Kr. ",
+"index": 36.",
+"position": 4, VIA (16).",
+"mass": 83,80.",
+"electronegativity": 2,94.",
+"config:": [Ar]3d<sup>10</sup>4s<sup>2</sup>p<sup>6</sup>.",
+
+/* @start */{"runame":ЛАНТАН ("lat": Lanthanum
+
+
+, "metall",.",
+"shortname": La. ",
+"index": 57.",
+"position": 6, IIIВ(3).",
+"mass": 138,9055.",
+"oxidation": +3.",
+"valence": III.",
+"electronegativity": 1,1.",
+"config:": [<a href="Xe.html">Xe</a>]5s<sup>2</sup>p<sup>6</sup>d<sup>1</sup>6s<sup>2</sup>.",
+ Природный лантан состоит из двух
+изотопов: <sup>139</sup>
+La (99,911%) и радиоактивного <sup>
+138</sup> La
+(-радиоактивен, период полураспада Т<sub>1/2</sub>2.10<sup>
+11</sup> лет).},/* @end */
+
+/* @start */{"runame":ЛИТИЙ ("lat": Lithium
+
+
+, щелочной "metall",.",
+"shortname": Li. ",
+"index": 3.",
+"position": 2, IA (1)",
+"mass": 6.941",
+"oxidation":+1",
+"valence": I",
+"electronegativity": 2.10",
+"config:": 1s<sup>2</sup>2s<sup>1</sup>",
+Литий встречается в природе в виде двух стабильных нуклидов <sup>6</sup>Li (7,52% по массе) и <sup>7</sup>Li (92,48%).",
+В виде простого вещества литий — мягкий, пластичный, легкий, серебристый "metall",.
+},/* @end */
+
+/* @start */{"runame": ЛОУРЕНСИЙ ("lat": Lowrencium
+
+
+, "metall",.",
+"shortname": Lr.",
+"index": 96.",
+"position": 7, IIIB(3).",
+"mass": 259.100.",
+"oxidation": +3 .",
+"valence": III.",
+"electronegativity": 1,2.",
+"config:": [Rn]5 s <sup>
+2</sup>p <sup>
+6</sup>d <sup>
+10</sup>f <sup>
+14</sup> 6 s <sup>
+ 2</sup> p<sup>
+6</sup> d<sup>
+1</sup> 7 s<sup>
+2</sup>.",
+Наиболее устойчив<font face="Symbol">a</font>
+-радиоактивный нуклид лоуренсия <sup>
+260</sup> Lr,
+период полураспадаT<sub> 1/2</sub>
+ 180 с. Наиболее доступен для исследователей <sup>
+256</sup> Lr,
+период полураспадаT<sub> 1/2</sub>
+ 35 с.",
+},/* @end */
+
+/* @start */{"runame":ЛЮТЕЦИЙ ("lat": Lutetium
+
+
+, "metall",.",
+"shortname": Lu. ",
+"index": 71.",
+"position": 6, IIIB(3).",
+"mass": 174,967.",
+"oxidation": +3.",
+"valence": III.",
+"electronegativity": 1,14.",
+"config:": [Xe]4 s
+<sup>2</sup> 
+ p <sup>6</sup>
+ d<sup>10</sup>
+ f <sup>14</sup>
+ 5s <sup>2</sup>
+ p <sup>6</sup>
+ d <sup>1</sup>
+ 6s <sup>2</sup>.",
+Природный
+лютеций представляет собой смесь стабильного <sup>
+175</sup> Lu
+(97,40% по массе) и слабо радиоактивного <sup>
+176</sup> Lu (2,6%, период
+полураспадаТ<sub> 1/2</sub>
+ = 2,4.10<sup>10</sup> лет).
+},/* @end */
+
+<td class="eText" colspan="2"><div id="nativeroll_video_cont" style="display:none;">},/* @end */<div class="js-teasers-wrapper"><div id="containerId20875" class="gnezdo_used"><iframe id="gc_containerId20875" scrolling="no" loading="eager" allow="autoplay" style="width: 100%; max-width: 100%; height: 0px !important; visibility: hidden; border: none;"></iframe>},/* @end */},/* @end */<h1 align="center">Ливерморий ("lat": Livermorium
+
+
+
+<div align="justify">, "metall",.",
+"symbol": Lv",
+"number": 116.",
+"position": 7, VA (15)",
+"mass" примерно 293.",
+"oxidation": −2 +2 +4 +6",
+"config:": [Rn] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>4</sup>",
+Искусственно синтезированный радиоактивный элемент, в природе не встречается. Официальное название ливерморий дано в честь Ливерморской национальной лаборатории им. Э. Лоуренса (Ливермор, США), участвовавшей в открытии элемента. До этого использовалось временное название унунгексий, которое дано по порядковому номеру (искусственно образовано из корней латинских числительных; Ununhexium можно приблизительно истолковать как «одно-одно-шестий»). Ранее был также известен как эка-полоний. Учёные ОИЯИ предлагали для 116-го элемента название московий — в честь Московской области. Однако американские партнёры ОИЯИ из Ливерморской национальной лаборатории предложили назвать 114-й или 116-й элемент в честь Леонардо да Винчи, Галилео Галилея или в честь Ливерморской национальной лаборатории. После согласовательных процедур между российскими и американскими учёными 1 декабря 2011 года в комиссию по номенклатуре химических соединений ИЮПАК было направлено предложение назвать 116-й элемент ливерморием. Название утверждено 30 мая 2012 года. Название «московий» было позднее утверждено для 115-го элемента.},/* @end */
+
+<h2>
+<td class="eText" colspan="2"><div id="nativeroll_video_cont" style="display:none;">},/* @end */<div class="js-teasers-wrapper"><div id="containerId20875" class="gnezdo_used"><iframe id="gc_containerId20875" scrolling="no" loading="eager" allow="autoplay" style="width: 100%; max-width: 100%; height: 0px !important; visibility: hidden; border: none;"></iframe>},/* @end */},/* @end */<h1 align="center">Московий ("lat": Moscovium
+
+
+
+<div align="justify">, "metall",.",
+"symbol": Mc.",
+"number": 115.",
+"position": 7, VA (15)",
+"mass" примерно 289 .",
+"oxidation": -3, +1, +3, +5",
+8 июня 2016 года ИЮПАК рекомендовал дать элементу название «московий» (Moscovium, Mc) в честь Московской области, где находится Объединённый институт ядерных исследований (Дубна). Название «московий» было представлено научной общественности для 5-месячного обсуждения с 8 июня по 8 ноября 2016 года. 28 ноября 2016 года ИЮПАК утвердил для 115-го элемента название московий.},/* @end */
+
+<h2>
+/* @start */{"runame":МЕНДЕЛЕВИЙ ("lat": Mendelevium
+
+
+, "metall",.",
+"shortname": Md. ",
+"index": 101.",
+"position": 7, IIIB(3).",
+"mass": .",
+"oxidation": +3, +2 и +1 .",
+"valence": III, II и I.",
+"electronegativity": 1.20.",
+"config:": [Rn]5 s <sup>
+2</sup>p <sup>
+6</sup>d <sup>
+10</sup>f <sup>
+13</sup> 6 s <sup>
+2</sup>p <sup>
+6</sup> 7 s<sup>
+2</sup>.",
+},/* @end */
+
+/* @start */{"runame":МАГНИЙ ("lat": Magnesium
+
+
+, "metall",.",
+"shortname": Mg. ",
+"index": 12.",
+"position": 3, IIA (2)",
+"mass": 24.3050",
+"oxidation": +2",
+"valence": II",
+"electronegativity": 1.23",
+"config:": [Ne]3s<sup>2</sup>",
+Простое вещество магний — легкий, серебристо-белый блестящий "metall",.
+},/* @end */
+
+/* @start */{"runame":МАРГАНЕЦ ("lat": Manganum
+
+
+, "metall",.",
+"shortname": Mn. ",
+"index": 25.",
+"position": 4, VIIВ (7)",
+"mass": 54.93805",
+"oxidation" (жирным шрифтом выделены наиболее характерные): +3,+2,<b>+4</b>,+6,+7",
+"valence": от II до VII.",
+"electronegativity": 1.55",
+"config:": [Ar]3s</sup><sup>2</sup>p</sup><sup>6</sup>d<sup>5</sup>4s<sup>2</sup>",
+Природный марганец состоит только из нуклида <sup>55</sup>Mn.<sup>25</sup>Mg (10,11%) и <sup>26</sup>Mg (11,29%).
+ Марганец в компактном виде — твердый
+серебристо-белый "metall",.},/* @end */
+
+/* @start */{"runame":МОЛИБДЕН ("lat":Molibdaenum 
+
+
+, "metall",.",
+"shortname": Mo. ",
+"index": 42.",
+"position": 5, (6).",
+"mass": 95,94.",
+"oxidation": от +2 до +6.",
+"valence": от II до VI.",
+"electronegativity": 1,8.",
+"config:": [Kr]4s<sup>2</sup> p<sup>6</sup>d<sup>5</sup>5s<sup>1</sup>.",
+Природный молибден состоит из семи стабильных изотопов:<sup>
+92</sup>Мо(15,86% по массе), <sup>94</sup>Мо (9,12%),<sup>95</sup>Мо (15,70),<sup>
+ 96</sup>Мо(16,50%),<sup>97</sup>Мо (9,45%),<sup>
+98</sup>Мо (23,75) и<sup>
+ 100</sup>Мо
+(9,62% по массе).
+},/* @end */
+
+/* @start */{"runame":МЕЙТНЕРИЙ ("lat": Meitnerium
+
+
+, "metall",.",
+"shortname": Mt. ",
+"index": 109.",
+"position": 7, VIIIB (9)",
+"mass": около 266",
+"oxidation" :+1,+3,+5",
+"valence": I, III, V.",
+"config:": [Rn]5f<sup>14</sup>6d<sup>7</sup>7s<sup>2</sup>",
+Название дано в честь австрийки Лизы Мейтнер, которая в 1917 была в числе исследователей, открывших новый химический элемент — протактиний, а в 1939 совместно с датским физиком О. Фришем обосновала представление о делении ядер урана под действием нейтронов.
+},/* @end */
+
+/* @start */{"runame":АЗОТ ("lat": Nitrogenium
+
+
+, не"metall",.",
+"shortname": N. ",
+"index": 7.",
+"position": 2, VA (15)",
+"mass": 14.00674",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>-3</b>,+1,+2,+3,+4,<b>+5</b>",
+"valence" (жирным шрифтом выделены наиболее характерные): I,II,<b>III</b>,IV,<b>V</b>",
+"electronegativity": 3.07",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>3</sup>",
+Природный азот состоит из стабильных нуклидов <sup>14</sup>N (содержание в смеси 99,635% по массе) и <sup>15</sup>N. 
+},/* @end */
+
+/* @start */{"runame":НАТРИЙ ("lat": Natrium
+
+
+, щелочной "metall",.",
+"shortname": H. ",
+"index": 1.",
+"position": 1, IA (1)",
+"mass": 1.00794",
+"oxidation" (жирным шрифтом выделена наиболее характерная): -1, <b>+1</b>",
+"valence": I",
+"electronegativity": 1.01",
+"config:": [Ne]1s<sup>1</sup>",
+},/* @end */
+
+/* @start */{"runame":НИОБИЙ ("lat": Niobium
+
+
+, "metall",.",
+"shortname": Nb. ",
+"index": 41.",
+"position": 5, VВ(5).",
+"mass": 92,9064.",
+"oxidation": +5, +4, +3, +2 и +1 .",
+"valence": V
+IV, III, II и I.",
+"electronegativity": 1,6.",
+"config:": [Kr]4s<sup>
+2</sup>p<sup>6</sup>d<sup>4</sup>5s<sup>1</sup>.",
+Природный ниобий состоит из одного стабильного изотопа <sup>
+93</sup>Nb.},/* @end */
+
+/* @start */{"runame": НЕОДИМ ("lat": Neodimium
+
+
+, "metall",.",
+"shortname": Nd. ",
+"index": 60.",
+"position": 6, IIIB(3).",
+"mass": 144,24.",
+"oxidation": +3, реже +4 и +2 .",
+"valence": III,IV и
+II.",
+"electronegativity": 1,07.",
+"config:": [Xe]4s<sup>
+2</sup>p <sup>
+6</sup>d<sup>
+10</sup>f <sup>
+4</sup>5s <sup>
+2</sup>p <sup>
+6</sup>6s <sup>
+2</sup>.",
+Состоит из пяти изотопов <sup>142</sup>
+Nd (27,07%), <sup>143</sup>
+Nd (12,17%), <sup>145</sup>
+Nd (8,30%), <sup>146</sup>
+Nd (17,22%) и <sup>148</sup>
+Nd (5,78%) и радиоактивных изотопов <sup>
+144</sup> Nd
+(23,78%, период полураспадаТ<sub> 1/2</sub>
+ = 5.10<sup>15</sup>
+ лет) и <sup>150</sup>
+Nd (5,67%, период полураспадаТ<sub>
+1/2</sub>= 2.10<sup>
+15</sup>лет).},/* @end */
+
+/* @start */{"runame":НЕОН ("lat": Neon
+
+
+, не"metall",, инертный (благородный) газ.",
+"shortname": Ne. ",
+"index": 10.",
+"position": 1, VIIIA (18)",
+"mass": 20.1797",
+"electronegativity": 4.84",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>6</sup>",
+Природный атмосферный неон состоит из трех стабильных нуклидов: <sup>20</sup>Ne (90,92% по объему), <sup>21</sup>Ne (0,257%) и <sup>22</sup>Ne (8,82%). Неон — одноатомный газ без цвета и запаха.
+},/* @end */
+
+/* @start */{"runame":Uut
+
+
+, "metall",.",
+"shortname": Uut. ",
+"index": 113.",
+"position": 7, IIIA (13)",
+"mass" примерно 282.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>1</sup>",
+},/* @end */
+
+/* @start */{"runame":НИКЕЛЬ ("lat": Niссolum
+
+
+, "metall",.",
+"shortname": Ni. ",
+"index": 28.",
+"position": 4, VIIIВ (10).",
+"mass": 58,69.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+2</b>,+3,+1 и +4.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>II</b>,III,I и IV.",
+"electronegativity": .",
+"config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d 
+<sup>8</sup>4s<sup>2</sup>.",
+Природный никель состоит из пяти стабильных нуклидов: <sup>58</sup>Ni (67,88 % по массе),<sup>60</sup>Ni (26,23 %), <sup>61</sup>Ni (1,19 %),</sup>62</sup>Ni (3,66 %) и <sup>64</sup>Ni (1,04 %).},/* @end */
+Простое вещество
+никель в компактном виде — блестящий серебристо-белый "metall",.
+
+/* @start */{"runame":НОБЕЛИЙ ("lat": Nobelium) 
+
+
+, "metall",.",
+"shortname": No. ",
+"index": 102.",
+"position": 7-7, IIIB(3).",
+"mass": .",
+"oxidation": +2,+3.",
+"valence": II,III.",
+"electronegativity": 1.20.",
+"config:": [Rn]5 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>14</sup>
+6 s<sup>2</sup>
+ p<sup>6</sup>
+7 s<sup>2</sup>.",
+Стабильных изотопов не
+имеет. Известно 9 изотопов с массовыми числами 251-259.
+},/* @end */
+
+/* @start */{"runame":НЕПТУНИЙ ("lat": Neptunium
+
+
+, "metall",.",
+"shortname": Np. ",
+"index": 93.",
+"position": 7, IIIB(3).",
+"mass": .",
+"oxidation": +3, +4, +5
+ +6 и +7 .",
+"valence": III, IV, V, VI и VII.",
+"electronegativity": 1,22.",
+"config:": [Rn] 5f<sup>4</sup>
+6 s<sup>2</sup>
+ p<sup>6</sup>
+ d<sup>1</sup>
+7 s<sup>2</sup>.",
+},/* @end */
+
+/* @start */{"runame":КИСЛОРОД ("lat": Oхygenium
+
+
+, не"metall",.",
+"shortname": O. ",
+"index": 8.",
+"position": 2, VIA (16)",
+"mass": 15.9994",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>-2</b>+1,+2",
+"valence" (жирным шрифтом выделена наиболее характерная): I,<b>II</b>",
+"electronegativity": 3.50",
+"config:": 1s<sup>1</sup>2s<sup>2</sup>2p<sup>4</sup>",
+Природный кислород состоит из смеси трех стабильных нуклидов с массовыми числами 16 (доминирует в смеси, его в ней 99,759 % по массе), 17 (0,037%) и 18 (0,204%). В свободном виде кислород — газ без цвета, запаха и вкуса.
+},/* @end */
+<a name=7 href="" target=""></a><H2>Особенности строения молекулы</H2>
+
+Атмосферный кислород состоит из двухатомных молекул. Межатомное расстояние в молекуле О<sub>2</sub> 0,12074 нм. Молекулярный кислород (газообразный и жидкий) — парамагнитное вещество, в каждой молекуле О<sub>2</sub> имеется по 2 неспаренных электрона. Этот факт можно объяснить тем, что в молекуле на каждой из двух разрыхляющих орбиталей находится по одному неспаренному электрону. Энергия диссоциации молекулы О<sub>2</sub> на атомы довольно высока и составляет 493,57 кДж/моль.
+},/* @end */
+
+/* @start */{"runame":Uuo
+
+
+, не"metall",.",
+"shortname": Uuo. ",
+"index": 118.",
+"position": 7, VIIIA (15)",
+"mass" примерно 293.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>2</sup>7p<sup>6</sup>",
+},/* @end */
+
+/* @start */{"runame":ОСМИЙ ("lat": Osmium
+
+
+, "metall",.",
+"shortname": Os. ",
+"index": 76.",
+"position": 6, VIIIB(8).",
+"mass": 190,2.",
+"oxidation": +4, +6, +8 (наиболее характерны),
++1, +3, +5.",
+"valence" (жирным шрифтом выделена наиболее характерная): I, III, IV, V, VI, VIII.",
+"electronegativity": 2,1.",
+"config:": [Xe]5s<sup>2</sup>
+p<sup>6</sup>
+5d<sup>6</sup>
+6s<sup>2</sup>.",
+Осмий — тяжелый
+серебристо-белый "metall",.",В природе семь стабильных
+изотопов <sup>184</sup>
+Os (0,018%), <sup>186</sup>
+Os (1,59%), <sup>187</sup>
+Os (1,64%), <sup>188</sup>
+Os (13,3%), <sup>189</sup>
+Os (16,1%), <sup>190</sup>
+Os (26,4%) и <sup>192</sup>
+Os (41,1%).},/* @end */
+
+H1 align="center">ФОСФОР ("lat":Phosphopus
+</a>Общие сведения</H2>
+
+, не"metall",.",
+"shortname": P. ",
+"index": 15.",
+"position": 3, VA (2)",
+"mass": 30.973761",
+Степени (жирным шрифтом выделена наиболее характерная): -3,+1,+3,+4,<b>+5</b>",
+"valence" (жирным шрифтом выделена наиболее характерная): I, III, VI,<b>V</b>",
+"electronegativity": 2,10.",
+"config:":[Ne]3s<sup>2</sup>3р<sup>3</sup>.",
+},/* @end */
+
+/* @start */{"runame":ПРОТАКТИНИЙ ("lat": Protactinium
+
+
+, "metall",.",
+"shortname": Pа. ",
+"index": 91.",
+"position": 7, IIIB(3).",
+"mass": 231,0359.",
+"oxidation":  +3, +4, +5.",
+"valence":  III, IV или V.",
+"electronegativity": 1.14.",
+"config:": [Rn]5f<sup>2</sup>6d<sup>1</sup>7s<sup>2</sup>.",
+},/* @end */
+
+/* @start */{"runame":СВИНЕЦ ("lat": plumbum
+
+
+, "metall",.",
+"shortname": Pb. ",
+"index": 82.",
+"position": 6, IVA(14).",
+"mass": 207,2.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+2</b>,+4.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>II</b>,IV.",
+"electronegativity": 1,55.",
+"config:": [Xe]6s<sup>2</sup>p<sup>2</sup>.",
+Природный свинец состоит из пяти стабильных изотопов: <sup>202</sup>Pb(следы),<sup>204</sup>Pb (1,48%), <sup>206</sup>Pb(23,6%), <sup>207</sup>
+Pb (22,6%) и <sup>208</sup>Pb (52,3%). Последние три изотопа — конечные продукты
+радиоактивного распада Ac, U и Th. В природе образуются радиоактивные изотопы: <sup>209</sup> Pb, <sup>210</sup>Pb (историческое название радий Д, RaD, Т<sub> 1/2</sub>
+ = 22 года), <sup>211</sup>Pb (актиний Б, АсВ, Т<sub>1/2</sub>= 36,1 мин), <sup>212</sup>
+Pb (торий Б, ThB, Т<sub>1/2</sub>= 10,6 часа), <sup>214</sup> Pb (радий Б, RaB, Т<sub>1/2</sub> = 26,8 мин).},/* @end */
+
+/* @start */{"runame":ПАЛЛАДИЙ ("lat": Palladium
+
+
+, "metall",.",
+"shortname": Pd. ",
+"index": 46.",
+"position": 5, VIIIB(10).",
+"mass": 106,42.",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+1, +2</b>, +3, +4, +5, +6.",
+"valence" (жирным шрифтом выделены наиболее характерные): <b>I,II</b>,III, IV,V,VI.",
+"electronegativity": 1.35.",
+"config:": [Kr]4s<sup>2</sup>p<sup>6</sup>d<sup>10</sup>5s<sup>0</sup>.",
+<sup>102</sup>Pd
+(1,00%), <sup>104</sup>Pd (11,14%), <sup>105</sup>Pd (22,33%), <sup>106</sup>Pd (27,33%), <sup>108</sup>Pd (26,46%) и <sup>110</sup>Pd (11,72%). Наиболее долгоживущий — искусственный
+радиоактивный изотоп <sup>107</sup>Pd (Т<sub>1/2</sub> 7 млн. лет).},/* @end */
+
+/* @start */{"runame":ПРОМЕТИЙ ("lat": Prometium
+
+
+, "metall",.",
+"shortname": Pm. ",
+"index": 61.",
+"position": 6, IIIB(3).",
+"mass": .",
+"oxidation": +3.",
+"valence": III.",
+"electronegativity": 1,07.",
+"config:": [Xe]4 s<sup>2</sup>
+ p<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>5</sup>
+  5s <sup>
+ 2</sup> p 
+ <sup>6</sup>
+6s <sup>
+2</sup>.",
+Стабильных нуклидов не имеет. Наиболее долгоживущие радионуклиды: прометий-145
+(период полураспадаТ<sub> 1/2</sub>
+ 17,7 лет), прометий-146 ( Т<sub>1/2</sub> 
+5,53 года) и прометий-147 ( Т<sub>1/2</sub>  2,6234 года);
+наиболее доступный <sup>148</sup>
+Pm.},/* @end */
+
+/* @start */{"runame":ПОЛОНИЙ ("lat": Polonium
+
+
+, "metall",.",
+"shortname": Po. ",
+"index": 84.",
+"position": 6, VIA(16).",
+"mass": 208.982.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): –2, +2, <b>+4 и +6 </b>.",
+"valence" (жирным шрифтом выделена наиболее характерная): II, <b>IV</b> и VI.",
+"electronegativity": 1,76.",
+"config:": [Xe]6s<sup>2</sup>p<sup>4</sup>.",
+Стабильных изотопов не имеет.},/* @end */
+
+/* @start */{"runame":ПРАЗЕОДИМ ("lat": Praseodimium
+
+
+, "metall",.",
+"shortname": Pr. ",
+"index": 59.",
+"position": 6, IIIB(3).",
+"mass": 140,90765.",
+"oxidation": +2, +3 и +4.",
+"valence": II, III и
+IV.",
+"electronegativity": 1,07.",
+"config:": [Xe]4 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>3</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 5d<sup>0</sup>
+6s<sup>
+2</sup>",
+В природе один стабильный нуклид <sup>
+141</sup> Pr.},/* @end */
+
+/* @start */{"runame":ПЛАТИНА ("lat": Platinum
+
+
+, "metall",.",
+"shortname": Pt. ",
+"index": 78.",
+"position": 6, VIIIB(10).",
+"mass": 195,083.",
+"oxidation": +2, +3, +4, +6 и редко +5.",
+"valence": II, III, IV, V, VI.",
+"electronegativity": 2,2.",
+"config:": [Xe]5s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>9</sup>
+6 s<sup>1</sup>.",
+Платина состоит
+из четырех стабильных изотопов <sup>194</sup>
+Pt (32,9%), <sup>195</sup>
+Pt (33,8%), <sup>196</sup>
+Pt (25,2%), <sup>198</sup>
+Pt (7,2%) и двух слабо радиоактивных <sup>
+190</sup> Pt
+(0,013 %, период полураспадаТ<sub> 
+1/2</sub>= 6,9·10<sup>
+11</sup>лет), <sup>
+192</sup> Pt (0,78
+%,Т<sub> 1/2</sub>
+ = 10<sup>15</sup>
+лет).},/* @end */
+
+/* @start */{"runame":ПЛУТОНИЙ ("lat": Plutonium
+
+
+, "metall",.",
+"shortname": Pu. ",
+"index": 94.",
+"position": 7, IIIB(3).",
+"mass": .",
+"oxidation": от +3 до +7.",
+"valence": III, IV, V, VI и VII.",
+"electronegativity": 1,22.",
+"config:": [Rn]5f <sup>
+6</sup> 6 s <sup>
+2</sup>p <sup>
+6</sup> 7 s<sup>
+2</sup>.",
+Стабильных нуклидов не имеет.},/* @end */
+
+/* @start */{"runame":РАДИЙ ("lat": Radium),
+
+
+, "metall",.",
+"shortname": Rа. ",
+"index": 88.",
+"position": 7,IIA (2).",
+"mass": 226.025.",
+"oxidation": 2.",
+"valence": II.",
+"electronegativity": 0.97.",
+"config:": [Rd]7s<sup>2</sup>.",
+табильных нуклидов не имеет.
+},/* @end */
+
+/* @start */{"runame":РУБИДИЙ ("lat": rubidium
+
+
+, "metall",.",
+"shortname": Rb. ",
+"index": 37.",
+"position": 5, IA(1).",
+"mass": 85,4678.",
+"oxidation": +1.",
+"valence": I.",
+"electronegativity": 0,8.",
+"config:": [Кr]5s<sup>2</sup>.",
+Природный рубидий состоит из смеси
+стабильного нуклида <sup>85</sup>Rb (72,15% по массе) и слабо радиоактивного
+<sup>87</sup>
+Rb (период полураспада Т<sub>
+1/2</sub>=
+4,8·10<sup>10</sup> лет). },/* @end */
+
+/* @start */{"runame":РЕНИЙ ("lat": rhenium
+
+
+, "metall",.",
+"shortname": Re. ",
+"index": 75.",
+"position": 6, VIIB(7).",
+"mass": 186,207.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+6</b>,+2,+3,+4,+5.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>VI</b>,II,III,IV,V.",
+"electronegativity": 1,9.",
+"config:": [Xe]5 s<sup>2</sup> 
+ p <sup>6</sup>
+ d <sup>5</sup>
+6 s<sup>2</sup>.",
+Встречается в природе в
+виде двух изотопов: стабильного <sup>185</sup>
+Re (37,4% по массе) и слаборадиоактивного — <sup>
+187</sup> Re
+(62,6%) ( T<sub> 1/2</sub>
+ = 5·10<sup>10</sup>
+ лет). },/* @end */
+
+/* @start */{"runame":РЕЗЕРФОРДИЙ ("lat": Rutherfordium
+
+
+, "metall",.",
+"shortname": Rf. ",
+"index": 104.",
+"position": 7, IVB (4)",
+"mass": около 261",
+"oxidation":  +4.",
+"valence": IV.",
+"config:": [Rn]5f<sup>14</sup>6d<sup>2</sup>7s<sup>2</sup>",
+},/* @end */
+
+/* @start */{"runame":Uuu
+
+
+, "metall",.",
+"shortname": Uuu. ",
+"index": 111.",
+"position": 7, IB (11)",
+"mass" примерно 272.",
+"config:": [<a href="Rn.html">Rn</a>] 5f<sup>14</sup>6d<sup>10</sup>7s<sup>1</sup>",
+},/* @end */
+
+/* @start */{"runame":РОДИЙ ("lat": Rhodium
+
+
+, "metall",.",
+"shortname": Rh. ",
+"index": 45.",
+"position": 5, VIIIВ(9).",
+"mass": 102,9055.",
+"oxidation":  от 0 до
++6.",
+"valence": от 0 до VI.",
+"electronegativity": 2,28.",
+"config:": [Kr]4s<sup>2</sup>p<sup>6</sup>d<sup>8</sup>5s<sup>1</sup>.",
+Природный  состоит из  стабильных нуклидов : .
+},/* @end */
+
+/* @start */{"runame":РАДОН ("lat": Radon
+
+
+, не"metall",.",
+"shortname": Rn. ",
+"index": 86.",
+"position": 6, VIIIA(18).",
+"mass": 222.017.",
+"oxidation": +6,+2 и +4.",
+"valence": II и IV.",
+"electronegativity": 2,06.",
+"config:": [Xe]6s<sup>2</sup>р<sup>6</sup>.",
+Стабильных нуклидов не имеет},/* @end */
+
+/* @start */{"runame":РУТЕНИЙ ("lat": ruthenium
+
+
+, "metall",.",
+"shortname": Ru. ",
+"index": 44.",
+"position": 5, VIIIB (8).",
+"mass": 101,07.",
+"oxidation": +3, +4, +6 и +8.",
+"valence": III,
+IV, VI и VIII.",
+"electronegativity": 1,42.",
+"config:": [Kr]4s<sup>2</sup>p<sup>6</sup>d<sup>7</sup>5s<sup>1</sup>.",
+Природный рутений состоит
+из семи стабильных изотопов: <sup>96</sup>Ru (5,7% по массе), <sup>
+98</sup>Ru
+(2,2%), <sup>99</sup>Ru (12,8%), <sup>100</sup>Ru (12,7%), <sup>102</sup>Ru (31,3%) и <sup>104</sup>Ru (18,3%).},/* @end */
+
+<html>
+
+<head>
+<META content=Иванов И.С. name=author> 
+<title>Сера</title>
+</head>
+
+<body link="#000000" vlink="#000000" alink="#000000">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="80%" bgcolor="#Ff0000">
+<font size="5" color="#ffffff"><b>Периодическая таблица химических элементов </b></font>
+    </td>
+    
+  </tr>
+</table>
+    <FORM>
+    <SELECT NAME="menu">
+    <OPTION VALUE="index.html" SELECTED>Главная страница
+    <OPTION VALUE="#0">Общие сведения
+    <OPTION VALUE="#1">Строение атома
+    <OPTION VALUE="#2">История открытия
+    <OPTION VALUE="#3">Нахождение в природе
+    <OPTION VALUE="#4">Получение
+    <option VALUE="#5">Физические и химические свойства
+    <option VALUE="#6">Применение
+    <option VALUE="#8">Биологическая роль
+    <input type=button value="Перейти" 
+ "top.location.href = 
+ this.form.menu.options[this.form.menu.selectedIndex].value"> 
+</FORM>
+<h1 align="center">СЕРА ("lat": Sulfur
+
+
+, не"metall",, халькоген.",
+"shortname": S. ",
+"index": 16.",
+"position": 3, VIA (16)",
+"mass": 32,066.",
+"oxidation":  -2,+2,+4,+6",
+"valence": II, IV и VI",
+"electronegativity": 2,6",
+"config:": [<a href="Ne.html">Ne</a>3s<sup>2</sup>3p<sup>4</sup>.",
+Природная сера состоит из четырех стабильных нуклидов: <sup>32</sup>S (содержание 95,084% по массе), <sup>33</sup>S(0,74 %), <sup>34</sup>S(4,16%) и <sup>36</sup>S (0,016 %). 
+В свободном виде сера
+представляет собой желтые хрупкие кристаллы или желтый порошок.},/* @end */
+
+/* @start */{"runame":СУРЬМА ("lat": Stibium
+
+
+, не"metall",.",
+"shortname": Sb. ",
+"index": 51.",
+"position": 5, VА(15).",
+"mass": 121,75.",
+"oxidation" (жирным шрифтом выделены наиболее характерные): <b>+3, +5</b>,-3.",
+"valence": III, V.",
+"electronegativity": 1,9.",
+"config:": [Kr]5s<sup>2</sup>p<sup>3</sup>.",
+Природная сурьма состоит из двух стабильных изотопов: <sup>121</sup>Sb (содержание по массе 57,25%) и <sup>123</sup>Sb (42,75%)
+(содержание по массе 57,25%) и <sup>123</sup>Sb (42,75%).
+},/* @end */
+
+H1 Align="center">СКАНДИЙ ("lat": Scandium
+
+, "metall",.",
+"shortname": Sc. ",
+"index": 21.",
+"position": 4, IIIB (3)",
+"mass": 44.955910",
+"oxidation": +3",
+"valence": III",
+"electronegativity": 1.20",
+"config:": [Ar]3d<sup>1</sup>4s<sup>2</sup>",
+Природный скандий состоит
+из одного стабильного изотопа с массовым числом 45.},/* @end */
+
+/* @start */{"runame":СЕЛЕН ("lat": selenium
+
+
+, не"metall",.",
+"shortname": Se. ",
+"index": 34.",
+"position": 4, VIA (16).",
+"mass": 78,96.",
+"oxidation": –2, +2, +4, +6.",
+"valence": II, IV, VI.",
+"electronegativity": 2,40.",
+"config:": [Ar]3d<sup>10</sup>4s<sup>2</sup>p<sup>4</sup>.",
+Природный селен состоит из шести стабильных
+изотопов: <sup>74</sup>
+Se (0,87% по массе), <sup>76</sup>Se (9,02%),
+<sup>77</sup>
+Se (7,58%), <sup>78</sup>
+Se (23,52%), <sup>80</sup>
+Se (49,82%) и <sup>82</sup>
+Se (9,19%).},/* @end */
+
+/* @start */{"runame":СИБОРГИЙ ("lat": Siborgium
+
+
+, "metall",.",
+"shortname": Sg. ",
+"index": 106.",
+"position": 7, VIB (6)",
+"mass": около 263",
+"oxidation":   +4,+6.",
+"valence": IV, VI.",
+"config:": [Rn]5f<sup>14</sup>6d<sup>4</sup>7s<sup>2</sup>",
+Название дано в честь американского радиохимика, создателя актиноидной (актинидной) теории, первооткрывателя сверхтяжелых трансурановых химических элементов Глена Т. Сиборга.
+},/* @end */
+
+H1>КРЕМНИЙ ("lat": Silicium
+<h2>Общие сведения</H2>
+<div>
+, не"metall",.",
+"symbol": Si",
+"number": 14.",
+"position": 3, IVA (14)",
+"mass": 28.0855",
+"oxidation" (выделена наиболее
+характерная): <b>-4</b>,+2,+4.",
+"valence" (жирным выделена наиболее характерная):
+II, <b>IV </b>.",
+"electronegativity": 1.74",
+"config:": [Ne]3s<sup>2</sup>3p <sup>2</sup>
+В свободном виде —
+коричневый порошок или светло-серый компактный материал с "metall",ическим блеском. Природный кремний
+состоит из смеси трех стабильных нуклидов с массовыми числами 28 (преобладает в
+смеси, его в ней 92,27% по массе), 29 (4,68%) и 30 (3,05%).
+
+
+/* @start */{"runame":САМАРИЙ ("lat": samarium
+
+
+, "metall",.",
+"shortname": Sm. ",
+"index": 62.",
+"position": 6, IIIB(3).",
+"mass": 150,36.",
+"oxidation":  +4, +3, +2.",
+"valence": IV, III,
+II.",
+"electronegativity": 1,07.",
+"config:": [Xe]4 s
+<sup>2</sup> 
+ p <sup>6</sup>
+ d<sup>10</sup>
+ f <sup>6</sup>
+ 5s <sup>2</sup>
+ p <sup>6</sup>
+6s<sup>2</sup>.",
+Природный самарий состоит из шести стабильных изотопов: <sup>
+144</sup> Sm
+(3,09% по массе), <sup>148</sup>
+Sm (11,27%), <sup>149</sup>
+Sm (13,82%), <sup>150</sup>
+Sm (7,47%), <sup>152</sup>
+Sm (26,63%), <sup>154</sup>
+Sm (22,53%), -радиоактивный <sup>
+147</sup> Sm
+(15,07%,Т<sub> 1/2</sub>
+ = 1,3·10<sup>11</sup>
+ лет).},/* @end */
+
+/* @start */{"runame":ОЛОВО ("lat": Stannum
+
+
+, "metall",.",
+"shortname": Sn. ",
+"index": 50.",
+"position": 5, IVА(14).",
+"mass": 118,710.",
+"oxidation": +2 и +4.",
+"valence": II и IV.",
+"electronegativity": 1,96.",
+"config:": [<a href="Kr.html">Kr</a>]5s<sup>2</sup>5p<sup>2</sup>.",
+ Природное
+олово состоит из девяти стабильных нуклидов с массовыми числами 112 (в смеси
+0,96% по массе), 114 (0,66%), 115 (0,35%), 116 (14,30%), 117 (7,61%), 118
+(24,03%), 119 (8,58%), 120 (32,85%), 122 (4,72%), и одного слабо радиоактивного
+олова-124 (5,94%).<sup>124</sup>
+Sn<sup></sup>
+— бета-излучатель, его период полураспада очень велик
+и составляет T<sub> 1/2</sub>
+ = 10<sup>16</sup>
+–10<sup>17</sup>
+ лет.
+},/* @end */
+
+/* @start */{"runame":СТРОНЦИЙ ("lat": Strontium
+
+
+, "metall",.",
+"shortname": Sr. ",
+"index": 38.",
+"position": 5, IIА (2).",
+"mass": 87,62.",
+"oxidation": +2.",
+"valence": II.",
+"electronegativity": 1,0.",
+"config:": [Kr]5s<sup>2</sup>.",
+Природный стронций состоит из четырех
+стабильных изотопов с массовыми числами 84 (0,56% по массе), 86 (9,86%), 87
+(7,02%) и 88 (82,56%).},/* @end */
+
+/* @start */{"runame":ТАНТАЛ ("lat": Tantalum
+
+
+, "metall",.",
+"shortname": Та. ",
+"index": 73.",
+"position": 6, (5).",
+"mass": 180,9479.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+5</b>,+4, +3, +2.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>V</b>,IV, III и II.",
+"electronegativity": 1,5.",
+"config:": [Xe]5 s
+<sup>2</sup>
+ p<sup>6</sup>
+ d<sup>3</sup>
+ 6s<sup>2</sup>.",
+Природный тантал состоит из
+стабильного изотопа <sup>181</sup>
+Ta (99,988 % по массе) и радиоактивного <sup>
+180</sup> Ta
+(0,0123%,Т<sub> 1/2</sub>
+ 10<sup>13</sup>
+ лет).},/* @end */
+
+/* @start */{"runame":ТЕРБИЙ ("lat": terbium
+
+
+, "metall",.",
+"shortname": Tb. ",
+"index": 65.",
+"position": 6, IIIB(3).",
+"mass": 158,9254.",
+"oxidation": +3, реже +4, +1.",
+"valence": IV,
+III, I.",
+"electronegativity": 1,1.",
+"config:": [Xe]4 s<sup>
+2</sup>p
+<sup>6</sup>
+ d<sup>10</sup>
+ f<sup>9</sup>
+ 5s<sup>2</sup>
+ p<sup>6</sup>
+ 6s<sup>2</sup>.",
+Природный состоит из стабильных нуклидов : .
+},/* @end */
+
+<html>
+
+<head>
+<META content=Иванов И.С. name=author> 
+<title>Технеций</title>
+</head>
+
+<body link="#000000" vlink="#000000" alink="#000000">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="80%" bgcolor="#Ff0000">
+<font size="5" color="#ffffff"><b>Периодическая таблица химических элементов </b></font>
+    </td>
+    
+  </tr>
+</table>
+    <FORM>
+    <SELECT NAME="menu">
+    <OPTION VALUE="index.html" SELECTED>Главная страница
+    <OPTION VALUE="#0">Общие сведения
+    <OPTION VALUE="#1">Строение атома
+    <OPTION VALUE="#2">История открытия
+    <OPTION VALUE="#3">Нахождение в природе
+    <OPTION VALUE="#4">Получение
+    <option VALUE="#5">Физические и химические свойства
+    <option VALUE="#6">Применение
+    <input type=button value="Перейти" 
+ "top.location.href = 
+ this.form.menu.options[this.form.menu.selectedIndex].value"> 
+</FORM>
+<h1 align="center">ТЕХНЕЦИЙ ("lat": Technetium
+
+
+, "metall",.",
+"shortname": Tc. ",
+"index": 43.",
+"position": 5, VIIB (7)",
+"mass": 97.907",
+"oxidation" (выделена наиболее
+характерная):  +2,+4,+6,<b>+7</b>",
+"valence" (выделена наиболее
+характерная): II, IV, VI, <b>VII</b>",
+"electronegativity": 1,9.",
+"config:": [Kr]4d<sup>5</sup>5s<sup>2</sup>.",
+Стабильных изотопов не имеет. Наиболее долгоживущие радиоизотопы: <sup>97</sup>Tc (Т<sub>1/2</sub> 2,6·10<sup>6</sup> лет, электронный захват), <sup>98</sup>Tc (Т<sub>1/2</sub>1,5·10<sup>6</sup> лет) и <sup>99</sup>Tc (Т<sub>1/2</sub>2,12·10<sup>5</sup> лет). Практическое значение имеет короткоживущий ядерный изомер <sup>99m</sup>Тс Т<sub>1/2</sub> 6,02 часа).},/* @end */
+
+/* @start */{"runame":ТЕЛЛУР ("lat": Tellurium
+, не"metall",.",
+"shortname": Te. ",
+"index": 52.",
+"position": 5, VIA(16).",
+"mass": 127,60.",
+"oxidation": –2, +2, +4, +6.",
+"valence": II,IV и VI.",
+"electronegativity":2,10.",
+"config:": [Kr]5 s<sup>2</sup>
+ p<sup>4</sup>.",
+ Теллур — хрупкое
+серебристо-белое вещество с "metall",ическим блеском.",
+Природный теллур состоит из восьми
+стабильных изотопов: <sup>120</sup>
+Te (содержание 0,089% по массе), <sup>
+122</sup> Te
+(2,46%), <sup>123</sup>
+Te (2,46%), <sup>124</sup>
+Te (4,74%), <sup>125</sup>
+Te (7,03%), <sup>126</sup>
+Te (18,72%), <sup>128</sup>
+Te (31,75%) и <sup>130</sup>
+Te (34,27%).},/* @end */
+
+/* @start */{"runame":ТОРИЙ ("lat": thorium
+
+
+, "metall",.",
+"shortname": Th. ",
+"index": 90.",
+"position": 7, IIIB(3).",
+"mass": 232,0381.",
+"oxidation": +4, реже +3
+и +2.",
+"valence": IV, III, II.",
+"electronegativity": 1,15.",
+"config:": [Rn]5s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+10</sup> 6 s <sup>
+2</sup>6p <sup>
+6</sup>6d<sup>
+2</sup> 7 s <sup>
+2</sup>.",
+ Известно 24 изотопа с
+массовыми числами 213-236. Наиболее долгоживущие изотопы <sup>
+230</sup> Th (
+<font face="Symbol">g</font> 
+-излучатель,Т<sub> 1/2</sub>
+=7,5·10<sup>4</sup>
+ лет) и <sup>232</sup>
+Th ( 
+<font face="Symbol">a</font> -излучатель,Т<sub>
+1/2</sub> =1,4·10<sup>
+10</sup>лет),
+родоначальник радиоактивного ряда <sup>232</sup>
+Th.},/* @end */
+
+/* @start */{"runame":ТИТАН ("lat": Titanium
+
+
+, "metall",.",
+"shortname": Ti. ",
+"index": 22.",
+"position": 4, IVB (4)",
+"mass": 47,88",
+"oxidation":+4, +3, +2",
+"valence":IV,III, II ",
+"electronegativity": 1,5",
+"config:": [Ar]3d<sup>2</sup>4s</sup><sup>2</sup>",
+Природный титан состоит из пяти стабильных изотопов с массовыми числами 46 (7,95%), 47 (7,75%),
+48 (73,45%), 49 (5,51%) и 50 (5,34%). ",
+},/* @end */
+
+/* @start */{"runame":ТАЛЛИЙ ("lat": Tallium
+
+
+, "metall",.",
+"shortname": Tl. ",
+"index": 81.",
+"position": 6, IIIA(13).",
+"mass": 204,383.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+1</b>,+3.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>I</b>,III.",
+"electronegativity": 1,8.",
+
+"config:": [Xe]1s<sup>2</sup>.",
+Природный таллий состоит
+из двух стабильных изотопов: <sup> 205</sup>
+Tl (содержание 70,5% по массе) и <sup>
+203</sup> Tl
+(29,5%). В ничтожных количествах встречаются радиоактивные изотопы таллия: <sup>
+208</sup> Tl ( Т<sub>
+1/2</sub>3,1
+мин, исторический символ ThC), <sup>210</sup>
+Tl ( Т<sub>1/2</sub>
+ 1,32 мин, исторический символ RaC) и <sup>
+206</sup> Tl ( Т<sub>
+1/2</sub>4,19
+мин, исторический символ RaЕ) и <sup> 207</sup>
+Tl ( Т<sub> 1/2</sub>
+ 4,78 мин, исторический символ АсC).},/* @end */
+
+/* @start */{"runame":ТУЛИЙ ("lat": Thulium
+
+
+, "metall",.",
+"shortname": Tm. ",
+"index": 69.",
+"position": 6, IIIB(3).",
+"mass": 168,93421.",
+"oxidation": +3, +2.",
+"valence": III, II.",
+"electronegativity": 1,1.",
+"config:": [Xe]4s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+10</sup> f<sup>
+13</sup> 5s<sup>
+2</sup> p<sup>
+6</sup> d<sup>
+0</sup> 6s<sup>
+2</sup>.",
+В природе встречается один стабильный изотоп <sup>
+169</sup> Tm.},/* @end */
+
+<td class="eText" colspan="2"><div id="nativeroll_video_cont" style="display:none;">},/* @end */<div class="js-teasers-wrapper"><div id="containerId20875" class="gnezdo_used"><iframe id="gc_containerId20875" scrolling="no" loading="eager" allow="autoplay" style="width: 100%; max-width: 100%; height: 452px !important; visibility: visible !important; border: none; max-height: 452px !important;"></iframe>},/* @end */},/* @end */<h1 align="center">Теннессин ("lat": Tennessine
+
+
+
+<div align="justify">
+<p>, "metall",.",
+"symbol": Ts.",
+"number": 117.",
+"position": 7, VIIA (17)",
+"mass" примерно 294.",
+"oxidation": -1, +1, +3, +5, +7</p>
+Формально относится к галогенам, однако его химические свойства ещё не изучены и могут отличаться от свойств, характерных для этой группы элементов.},/* @end */
+
+<h2>
+/* @start */{"runame":УРАН ("lat": Uranium
+
+
+, "metall",.",
+"shortname": U. ",
+"index": 92.",
+"position": 7,IIIB (3).",
+"mass": 238,0289.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): <b>+6</b>,+2, +3, +4, +5.",
+"valence" (жирным шрифтом выделена наиболее характерная): <b>VI</b>,II, III, IV, V.",
+"electronegativity": 1,22.",
+"config:": [Xe]5s <sup>2</sup>
+ p <sup>6</sup>
+ d<sup> 10</sup>
+f <sup>3</sup>
+ 6 s<sup>2</sup>
+p<sup>6</sup>
+d <sup>1</sup>
+7s <sup>2</sup>.",
+Природный уран состоит из смеси трех
+изотопов: <sup>238</sup>U, 99,2739%, с периодом полураспадаТ<sub>1/2</sub>=4,51·10<sup>9</sup> лет, <sup>235</sup>U, 0,7024%, с периодом полураспадаТ<sub>1/2</sub>=7,13·10<sup>8</sup> лет, <sup>234</sup>
+U, 0,0057%, с периодом полураспада  Т<sub>1/2</sub>=2,45·10<sup>5</sup> лет. <sup>238</sup>U (уран-I, UI) и <sup>235</sup> U (актиноуран, АсU)
+являются родоначальниками радиоактивных рядов.},/* @end */
+
+/* @start */{"runame":ВАНАДИЙ ("lat": Vanadium, "metall",.","shortname": V. ","index": 23.","position": 4, VВ (5)","mass": 50,9415.","oxidation": от +2 до +5","valence":от II до V","electronegativity": 1,63","config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d<sup>3</sup>4s<sup>2</sup>.",Природный ванадий представляет собой смесь двух нуклидов: стабильного <sup>51</sup>V (99,76% по массе)<sup></sup>и слаборадиоактивного <sup>52</sup>V (период полураспада более 3,9·10<sup>17</sup> лет). В свободном виде - блестящий серебристо-серый "metall",.</span>",},/* @end */
+/* @start */{"runame":ВОЛЬФРАМ (или ТАНГСТЕН - Tu, "lat": Wolframium
+
+
+, "metall",.",
+"shortname": W. ",
+"index": 74.",
+"position": 6, VIВ (6).",
+"mass": 183,85.",
+"oxidation": от +2 до +6 .",
+"valence": II-VI.",
+"electronegativity": 1,7.",
+"config:": [Xe]5 s <sup>2</sup>
+ p <sup>6</sup>
+ d <sup>4</sup>
+6 s <sup>2</sup>
+.",
+Природный вольфрам состоит из пяти стабильных изотопов <sup>
+180</sup> W (0,135
+масс.%), <sup>182</sup>
+W (26,41%), <sup>183</sup>
+W (14,4%), <sup>184</sup>
+W (30,64%) и <sup>186</sup>
+W (28,41%).},/* @end */
+
+/* @start */{"runame":КСЕНОН ("lat": Xeno
+
+
+, не"metall",.",
+"shortname": Xe. ",
+"index": 54.",
+"position": 5, VIIIA(18).",
+"mass": 131,29.",
+"electronegativity": 2,6.",
+"config:": [Kr]5s<sup>
+2</sup>
+p<sup>6</sup>.",
+Природный атмосферный ксенон
+состоит из девяти изотопов: <sup>124</sup>
+ Хе
+ (0,096%),<sup>
+126</sup>Хе
+ (0,090%), <sup>128
+</sup>Хе
+ (1,92%), <sup>129
+</sup>Хе
+ (26,44%), <sup>130
+</sup>Хе
+ (4,08), <sup>131
+</sup>Хе
+ (21,18%), <sup>132
+</sup>Хе
+ (26,89%), <sup>134
+</sup>Хе
+ (10,44%) и <sup>136
+</sup>Хе
+ (8,87%).},/* @end */
+
+/* @start */{"runame":ИТТРИЙ ("lat": Yttrium
+
+
+, "metall",.",
+"shortname": Y. ",
+"index": 39.",
+"position": 5,IIIB (3).",
+"mass": 88.9.",
+"oxidation" +3.",
+"valence": III.",
+"electronegativity": 1.11.",
+"config:": [Kr].",
+Природный иттрий состоит из одного стабильного изотопа <sup>89</sup>Y.},/* @end */
+
+/* @start */{"runame": ИТТЕРБИЙ ("lat": Ytterbium
+
+
+, "metall",.",
+"shortname": Yb. ",
+"index": 70.",
+"position": 6, IIIB(3).",
+"mass":  173,04.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): +2, +3.",
+"valence" (жирным шрифтом выделена наиболее характерная): II, III.",
+"electronegativity": 1,06.",
+"config:": [Xe]4 s<sup> 2</sup>
+ p<sup> 6</sup>
+ d<sup> 10</sup>
+ f<sup> 14
+</sup>5s<sup>
+2</sup>p
+<sup> 6</sup>
+ 6s<sup> 2</sup>.",
+Природный иттербий состоит из семи стабильных изотопов <sup>168</sup> Yb(0,14%),<sup>170</sup>Yb (3,03%), <sup> 171</sup>Yb (14,31%), <sup> 172</sup>Yb (21,82%), <sup> 173</sup>Yb (16,13%), <sup> 174</sup>Yb (31,84%) и <sup> 176</sup>Yb (12,73%).},/* @end */
+
+/* @start */{"runame":ЦИНК ("lat": Zincum
+
+, "metall",.",
+"shortname": Zn. ",
+"index": 30.",
+"position": 5, (4).",
+"mass": 65,39.",
+"oxidation": +2.",
+"valence": II.",
+"electronegativity": 1.66.",
+"config:": [Ar]3s<sup>2</sup>p<sup>6</sup>d<sup>10</sup>4s<sup>2</sup>.",
+Природный цинк состоит из смеси пяти стабильных нуклидов:</sup><sup>64</sup>Zn (48,6% по массе),</sup><sup>66</sup>Zn (27,9%),</sup>
+<sup>67</sup>Zn (4,1%),</sup><sup>68</sup>Zn (18,8%) и</sup><sup>70</sup>Zn (0,6%)},/* @end */
+
+/* @start */{"runame":ЦИРКОНИЙ ("lat": Zirconium
+
+
+, "metall",.",
+"shortname": Zr. ",
+"index": 40.",
+"position": 5,IVB (4).",
+"mass": 91,224.",
+"oxidation" (жирным шрифтом выделена наиболее характерная): +4, +3,+2 и +1 .",
+"valence" (жирным шрифтом выделена наиболее характерная):IV,III, II и I.",
+"electronegativity": 1,4.",
+"config:": [Kr]4s<sup>2</sup>p<sup>6</sup>d<sup>2</sup>5s<sup>2</sup>.",
+Является
+смесью пяти стабильных нуклидов с массовыми числами 90 (51,46%), 91 (11,23%),
+92 (17,11%), 94 (17,40%) и 96 (2,80%).},/* @end */
