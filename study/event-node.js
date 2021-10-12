@@ -1,4 +1,4 @@
-// const EventEmitter = require('events').EventEmitter
+
 function Countdown(seconds, superstitious) {
 	this.timeoutIds = [];
 	return new Promise((resolve, reject) => {
@@ -11,6 +11,7 @@ function Countdown(seconds, superstitious) {
 				}
 				if(i===0) resolve();
 			}, (seconds-i)*1000))
+			for(let arr of this.timeoutIds) console.log('arr: '+ arr)
 		}
 	})
 }
